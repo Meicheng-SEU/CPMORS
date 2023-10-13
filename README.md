@@ -5,4 +5,4 @@ We aimed to develop and validate an AI model, called CPMORS (Conformal Predictor
 ## Data source and extraction
 The MIMIC-IV data used in this present study can be retrieved from [https://physionet.org/content/mimiciv/2.2/](https://physionet.org/content/mimiciv/2.2/). eICU-CRD data: [http://eicu-crd.mit.edu/](https://physionet.org/content/eicu-crd/2.0/).
 
-Details in extracting data from MIMIC-IV and eICU-CRD were provided in SQL.
+Details of how to extract data from MIMIC-IV and eICU-CRD have been provided in SQL in the **data_extraction** folder.
